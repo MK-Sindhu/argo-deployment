@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: next-app
-    image: mksindhu/argocd:91e72796f20b947c75eac633215507ad543acd2c
+    image: mksindhu/argocd:0083f100e68442462d9826ba99fecde5190e259b
     ports:
     - containerPort: 3000
